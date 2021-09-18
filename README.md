@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ELVAN13091999
+- 👋 Hi, I’m elvan
 - 👀 I’m interested in AI/ML, Data Science, and Material Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on machine learning
