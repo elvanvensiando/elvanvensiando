@@ -1,5 +1,5 @@
-- 👋 Hi, I’m elvan
-- 👀 I’m interested in AI/ML, Data Science, and Material Science
+- 👋 Hi, I’m working in Tech 
+- 👀 I’m interested in AI/ML/DL, Data Science, and Material Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me vensiandoe@gmail.com
