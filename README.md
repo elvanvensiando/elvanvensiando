@@ -1,4 +1,4 @@
-- 👋 Hi, I’m working in Tech and Math,Phys Teacher
+- 👋 Hi, I’m working in Tech and as a Math/Phys Teacher
 - 👀 I’m interested in AI/ML/DL, Data Science, and Material Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on machine learning
