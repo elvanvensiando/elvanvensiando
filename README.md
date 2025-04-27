@@ -1,4 +1,4 @@
-- 👋 Hi, I’m working in Tech and Math/Physics Teacher
+- 👋 Hi thanks for stopping by, I’m working in Tech and Math/Physics Teacher
 - 👀 I’m interested in AI and Material Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on machine learning
