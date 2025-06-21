@@ -1,7 +1,7 @@
-- 👋 Hi thanks for stopping by, I’m working in Tech and Math/Physics Teacher
-- 👀 I’m interested in AI and Material Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on machine learning
+- 👋 Hi thanks for stopping by, working in Tech Industry
+- 👀 interested in AI and Material Science
+- 🌱 currently learning Machine Learning
+- 💞️ looking to collaborate on machine learning
 - 📫 How to reach me e.vensiando@kodland.team or https://timedoor.net/ or vensiandoe@gmail.com
 
 <!---
