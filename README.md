@@ -1,4 +1,4 @@
-- 👋 Hi thanks for stopping by, working in Tech Industry
+- 👋 Hi thanks for stopping by, working in Tech Industry(AI, Physics, Math)
 - 👀 interested in AI and Material Science
 - 🌱 currently learning Machine Learning
 - 💞️ looking to collaborate on machine learning
