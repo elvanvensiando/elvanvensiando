@@ -2,7 +2,7 @@
 - 👀 interested in AI and Material Science
 - 🌱 currently learning Machine Learning
 - 💞️ looking to collaborate on machine learning
-- 📫 How to reach me e.vensiando@kodland.team or https://timedoor.net/ or vensiandoe@gmail.com
+- 📫 How to reach me e.vensiando@kodland.team or https://timedoor.net/ or vensiando@gmail.com
 
 <!---
 ELVAN13091999/ELVAN13091999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
