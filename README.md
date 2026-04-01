@@ -4,7 +4,7 @@
 - 💞️ looking to collaborate on machine learning
 - 📫 How to reach me:
 
-e.vensiando@kodland.team  or https://vensiando@timedoor.net/ or https://elvangit.pythonanywhere.com/ or vensiando@gmail.com
+e.vensiando@kodland.team  or vensiando@timedoor.net or https://elvangit.pythonanywhere.com or vensiando@gmail.com
 
 <!---
 ELVAN13091999/ELVAN13091999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
